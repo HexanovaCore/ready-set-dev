@@ -18,7 +18,7 @@ from typing import Dict, List, Any
 # ==========================================
 APP_NAME: str = "AutoDev Setup"
 VERSION: str = "1.2.0"
-CLI_PROG_NAME: str = "setup-my-project"
+CLI_PROG_NAME: str = "smp"
 
 # Kullanıcının aracı çalıştırdığı aktif dizin (Target Project Directory)
 CWD_PATH: Path = Path(os.getcwd())
