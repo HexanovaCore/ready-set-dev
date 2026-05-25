@@ -19,6 +19,7 @@
 ---
 
 ![InstantDevSetup Demo](assets/demo.gif)
+![InstantDevSetup Demo](assets/demo.png)
 
 ## 🌍 English
 
