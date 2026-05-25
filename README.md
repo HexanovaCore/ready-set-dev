@@ -98,7 +98,7 @@ Git (To clone the repository / Projeyi yerel bilgisayarınıza çekmek için)
 🛠️ Developer Setup & Compilation / Geliştirici Kurulumu ve Derleme
 1. Clone the Repository / Projeyi Klonlayın
 Bash
-git clone [https://github.com/KULLANICI_ADIN/smp-cli.git](https://github.com/KULLANICI_ADIN/smp-cli.git)
+git clone [https://github.com/HexanovaCore/ready-set-dev/.git](https://github.com/HexanovaCore/ready-set-dev/.git)
 cd smp-cli
 2. Install Package in Editable Mode / Paket Bağlantılarını Kaydedin
 PowerShell
