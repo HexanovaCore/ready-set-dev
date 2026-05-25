@@ -19,7 +19,7 @@
 ---
 
 ![InstantDevSetup Demo](assets/demo.gif)
-![InstantDevSetup Demo](assets/demo.png)
+
 
 ## 🌍 English
 
@@ -36,6 +36,7 @@ SMP is an enterprise-grade, ultra-fast Command Line Interface (CLI) engineered t
 ### ⚖️ Disclaimer & Liability Limitation
 The software is provided "as is", without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, data loss, environment misconfigurations, or other liability arising from, out of, or in connection with the software or the use or other dealings in the software. By executing this binary, you assume full responsibility for your operating system runtime environment.
 
+![InstantDevSetup Demo](assets/demo.png)
 ---
 
 ## 🇹🇷 Türkçe
