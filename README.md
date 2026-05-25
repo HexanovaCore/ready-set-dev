@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀 SMP (Auto Dev Environment Setup Tool)
+# Instant Dev Environment Setup CLI (InstantDevSetup)
 
 **Enterprise-Grade Automated Workspace & Development Scaffold Engine**
 
