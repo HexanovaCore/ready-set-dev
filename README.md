@@ -18,6 +18,8 @@
 
 ---
 
+![InstantDevSetup Demo](assets/demo.gif)
+
 ## 🌍 English
 
 ### 🛡️ Antivirus & Windows SmartScreen Notice (False Positive)
