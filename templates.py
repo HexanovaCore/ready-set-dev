@@ -1,6 +1,6 @@
 """
 Auto Dev Environment Setup - Enterprise Templates Manager
-Author: Your Name / Project Admin
+Author: HexanovaCore
 Version: 1.2.0
 Description: Ultimate production-ready templates for 8+ languages.
              Fully bulletproofed against Python string template interpolation errors ($$).
