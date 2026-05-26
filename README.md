@@ -107,11 +107,11 @@ Git (To clone the repository / Projeyi yerel bilgisayarınıza çekmek için)
 1. Clone the Repository / Projeyi Klonlayın
 Bash
 git clone [https://github.com/HexanovaCore/InstantDevSetup.git](https://github.com/HexanovaCore/InstantDevSetup.git)
-cd smp-cli
-2. Install Package in Editable Mode / Paket Bağlantılarını Kaydedin
+cd InstantDevSetup
+3. Install Package in Editable Mode / Paket Bağlantılarını Kaydedin
 PowerShell
 pip install -e .
-3. Compile Into an Independent Binary with Icon / İkonlu Bağımsız EXE Olarak Derleyin
+4. Compile Into an Independent Binary with Icon / İkonlu Bağımsız EXE Olarak Derleyin
 Ensure you have an icon.ico inside the root directory, then execute: / Kök dizinde icon.ico dosyanızın hazır olduğundan emin olduktan sonra şu komutu koşturun:
 
 PowerShell
