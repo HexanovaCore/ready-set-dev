@@ -89,19 +89,21 @@ Enable Full Subprocess Debug Logs / Detaylı Alt Sistem Loglarını Aktif Et:
 PowerShell
   smp -v -p ./test-zone init go
 ```
-📦 Installation & Compiling - Kurulum & Derleme
+###📦 Installation & Compiling - Kurulum & Derleme
+
 🚀 Standalone Executable (Recommended) / Hazır Çalıştırılabilir Dosya (Önerilen)
 No Python environment required. Go straight to the Releases section, download the pre-compiled smp.exe, drop it into your target project folder, and run your commands instantly.
 (Herhangi bir Python kurulumuna gerek yoktur. Doğrudan Sürümler bölümünden smp.exe dosyasını indirin, boş bir klasöre atın ve terminalinizden komutunuzu çalıştırın.)
 
-📋 Prerequisites for Source Running / Kaynak Kod Ön Gereksinimleri
+###📋 Prerequisites for Source Running / Kaynak Kod Ön Gereksinimleri
 Before running or compiling from source, ensure you have the following installed: / Kaynak koddan çalıştırmadan veya derlemeden önce sisteminizde aşağıdakilerin kurulu olduğundan emin olun:
 
 Python 3.11 (Highly recommended for ecosystem stability / Kararlılık için kesinlikle 3.11 sürümü önerilir)
 
 Git (To clone the repository / Projeyi yerel bilgisayarınıza çekmek için)
 
-🛠️ Developer Setup & Compilation / Geliştirici Kurulumu ve Derleme
+###🛠️ Developer Setup & Compilation / Geliştirici Kurulumu ve Derleme
+
 1. Clone the Repository / Projeyi Klonlayın
 Bash
 git clone [https://github.com/HexanovaCore/ready-set-dev.git](https://github.com/HexanovaCore/ready-set-dev.git)
