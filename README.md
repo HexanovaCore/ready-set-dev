@@ -88,6 +88,7 @@ Enable Full Subprocess Debug Logs / Detaylı Alt Sistem Loglarını Aktif Et:
 
 PowerShell
   smp -v -p ./test-zone init go
+```
 📦 Installation & Compiling - Kurulum & Derleme
 🚀 Standalone Executable (Recommended) / Hazır Çalıştırılabilir Dosya (Önerilen)
 No Python environment required. Go straight to the Releases section, download the pre-compiled smp.exe, drop it into your target project folder, and run your commands instantly.
